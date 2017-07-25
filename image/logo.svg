@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#000000" transform="rotate(49.93208312988281 339.06112670898443,249.50000000000003) " id="svg_24" d="m368.841293,190.357338c113.409328,0.75341 -93.525874,118.28532 -93.525874,118.28532c0,0 93.525874,-118.28532 93.525874,-118.28532z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="none"/>
+  <path id="svg_26" stroke="#000000" transform="rotate(-130.2292022705078 317.0611267089844,223.50003051757812) " d="m346.841293,164.357338c113.409328,0.753409 -93.525875,118.28532 -93.525875,118.28532c0,0 93.525875,-118.28532 93.525875,-118.28532z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="#aad4ff"/>
+  <text font-weight="bold" font-style="italic" stroke="#000000" transform="matrix(0.8420352935791016,0,0,0.7307692170143127,34.49060636758804,52.500002682209015) " xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="24" id="svg_27" y="236.526316" x="312.254342" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Eduardo</text>
+  <text stroke="#000000" transform="matrix(0.8017757534980774,0,0,0.7692307829856873,60.19203135184944,53.53845834732056) " font-weight="bold" font-style="italic" xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="24" id="svg_28" y="260.8" x="375.675251" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Portillo</text>
+ </g>
+</svg>
